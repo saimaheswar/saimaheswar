@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180" role="img" aria-label="Tools: PYTHON, SQL, TYPESCRIPT, PYSPARK, KAFKA, SPARK, DUCKDB, DBT, AIRFLOW, POSTGRES, REDIS, SQLITE, DOCKER, REACT, NEXT.JS, ANGULAR, FASTAPI">
+<title>Tools: PYTHON, SQL, TYPESCRIPT, PYSPARK, KAFKA, SPARK, DUCKDB, DBT, AIRFLOW, POSTGRES, REDIS, SQLITE, DOCKER, REACT, NEXT.JS, ANGULAR, FASTAPI</title>
+<defs>
+  <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+    <feGaussianBlur stdDeviation="2.2" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="glow-s" x="-20%" y="-20%" width="140%" height="140%">
+    <feGaussianBlur stdDeviation="1" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+    <rect width="4" height="1.4" fill="#000" opacity=".28"/>
+  </pattern>
+</defs>
+<rect width="900" height="180" fill="#030703"/>
+<rect x="12" y="14" width="81.2" height="28" fill="none" stroke="#39ff14" stroke-width="1.2" opacity=".85"/>
+<text x="52.599999999999994" y="33" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12.5" fill="#39ff14" font-weight="bold" text-anchor="middle" xml:space="preserve" filter="url(#glow-s)">PYTHON</text>
+<rect x="105.19999999999999" y="14" width="53.6" height="28" fill="none" stroke="#39ff14" stroke-width="1.2" opacity=".85"/>
+<text x="132.0" y="33" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12.5" fill="#39ff14" font-weight="bold" text-anchor="middle" xml:space="preserve" filter="url(#glow-s)">SQL</text>
+<rect x="170.79999999999998" y="14" width="118.0" height="28" fill="none" stroke="#39ff14" stroke-width="1.2" opacity=".85"/>
+<text x="229.79999999999998" y="33" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12.5" fill="#39ff14" font-weight="bold" text-anchor="middle" xml:space="preserve" filter="url(#glow-s)">TYPESCRIPT</text>
+<rect x="300.79999999999995" y="14" width="90.4" height="28" fill="none" stroke="#39ff14" stroke-width="1.2" opacity=".85"/>
+<text x="345.99999999999994" y="33" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12.5" fill="#39ff14" font-weight="bold" text-anchor="middle" xml:space="preserve" filter="url(#glow-s)">PYSPARK</text>
+<rect x="12" y="54" width="72.0" height="28" fill="none" stroke="#39ff14" stroke-width="1.2" opacity=".85"/>
+<text x="48.0" y="73" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12.5" fill="#39ff14" font-weight="bold" text-anchor="middle" xml:space="preserve" filter="url(#glow-s)">KAFKA</text>
+<rect x="96.0" y="54" width="72.0" height="28" fill="none" stroke="#39ff14" stroke-width="1.2" opacity=".85"/>
+<text x="132.0" y="73" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12.5" fill="#39ff14" font-weight="bold" text-anchor="middle" xml:space="preserve" filter="url(#glow-s)">SPARK</text>
+<rect x="180.0" y="54" width="81.2" height="28" fill="none" stroke="#39ff14" stroke-width="1.2" opacity=".85"/>
+<text x="220.6" y="73" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12.5" fill="#39ff14" font-weight="bold" text-anchor="middle" xml:space="preserve" filter="url(#glow-s)">DUCKDB</text>
+<rect x="273.2" y="54" width="53.6" height="28" fill="none" stroke="#39ff14" stroke-width="1.2" opacity=".85"/>
+<text x="300.0" y="73" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12.5" fill="#39ff14" font-weight="bold" text-anchor="middle" xml:space="preserve" filter="url(#glow-s)">DBT</text>
+<rect x="338.79999999999995" y="54" width="90.4" height="28" fill="none" stroke="#39ff14" stroke-width="1.2" opacity=".85"/>
+<text x="383.99999999999994" y="73" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12.5" fill="#39ff14" font-weight="bold" text-anchor="middle" xml:space="preserve" filter="url(#glow-s)">AIRFLOW</text>
+<rect x="12" y="94" width="99.6" height="28" fill="none" stroke="#39ff14" stroke-width="1.2" opacity=".85"/>
+<text x="61.8" y="113" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12.5" fill="#39ff14" font-weight="bold" text-anchor="middle" xml:space="preserve" filter="url(#glow-s)">POSTGRES</text>
+<rect x="123.6" y="94" width="72.0" height="28" fill="none" stroke="#39ff14" stroke-width="1.2" opacity=".85"/>
+<text x="159.6" y="113" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12.5" fill="#39ff14" font-weight="bold" text-anchor="middle" xml:space="preserve" filter="url(#glow-s)">REDIS</text>
+<rect x="207.6" y="94" width="81.2" height="28" fill="none" stroke="#39ff14" stroke-width="1.2" opacity=".85"/>
+<text x="248.2" y="113" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12.5" fill="#39ff14" font-weight="bold" text-anchor="middle" xml:space="preserve" filter="url(#glow-s)">SQLITE</text>
+<rect x="300.79999999999995" y="94" width="81.2" height="28" fill="none" stroke="#39ff14" stroke-width="1.2" opacity=".85"/>
+<text x="341.4" y="113" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12.5" fill="#39ff14" font-weight="bold" text-anchor="middle" xml:space="preserve" filter="url(#glow-s)">DOCKER</text>
+<rect x="12" y="134" width="72.0" height="28" fill="none" stroke="#39ff14" stroke-width="1.2" opacity=".85"/>
+<text x="48.0" y="153" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12.5" fill="#39ff14" font-weight="bold" text-anchor="middle" xml:space="preserve" filter="url(#glow-s)">REACT</text>
+<rect x="96.0" y="134" width="90.4" height="28" fill="none" stroke="#39ff14" stroke-width="1.2" opacity=".85"/>
+<text x="141.2" y="153" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12.5" fill="#39ff14" font-weight="bold" text-anchor="middle" xml:space="preserve" filter="url(#glow-s)">NEXT.JS</text>
+<rect x="198.39999999999998" y="134" width="90.4" height="28" fill="none" stroke="#39ff14" stroke-width="1.2" opacity=".85"/>
+<text x="243.59999999999997" y="153" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12.5" fill="#39ff14" font-weight="bold" text-anchor="middle" xml:space="preserve" filter="url(#glow-s)">ANGULAR</text>
+<rect x="300.79999999999995" y="134" width="90.4" height="28" fill="none" stroke="#39ff14" stroke-width="1.2" opacity=".85"/>
+<text x="345.99999999999994" y="153" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12.5" fill="#39ff14" font-weight="bold" text-anchor="middle" xml:space="preserve" filter="url(#glow-s)">FASTAPI</text>
+<rect width="900" height="180" fill="url(#scan)" pointer-events="none"/>
+</svg>

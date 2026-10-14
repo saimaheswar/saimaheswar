@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="96" viewBox="0 0 900 96" role="img" aria-label="12 public repos, 706 tests across 4 data projects, Python and TypeScript">
+<title>12 public repos, 706 tests across 4 data projects, Python and TypeScript</title>
+<defs>
+  <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+    <feGaussianBlur stdDeviation="2.2" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="glow-s" x="-20%" y="-20%" width="140%" height="140%">
+    <feGaussianBlur stdDeviation="1" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+    <rect width="4" height="1.4" fill="#000" opacity=".28"/>
+  </pattern>
+</defs>
+<rect width="900" height="96" fill="#030703"/>
+<rect x="10.0" y="10" width="211.0" height="76" fill="none" stroke="#2a8f12" stroke-width="1"/>
+<rect x="10.0" y="10" width="4" height="76" fill="#39ff14" filter="url(#glow-s)"/>
+<text x="28.0" y="52" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="26" fill="#39ff14" font-weight="bold" text-anchor="start" xml:space="preserve" filter="url(#glow-s)">12</text>
+<text x="28.0" y="74" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="10.5" fill="#2a8f12" font-weight="normal" text-anchor="start" xml:space="preserve">PUBLIC REPOS</text>
+<rect x="233.0" y="10" width="211.0" height="76" fill="none" stroke="#2a8f12" stroke-width="1"/>
+<rect x="233.0" y="10" width="4" height="76" fill="#39ff14" filter="url(#glow-s)"/>
+<text x="251.0" y="52" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="26" fill="#39ff14" font-weight="bold" text-anchor="start" xml:space="preserve" filter="url(#glow-s)">706</text>
+<text x="251.0" y="74" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="10.5" fill="#2a8f12" font-weight="normal" text-anchor="start" xml:space="preserve">TESTS ACROSS 4 DATA PROJECTS</text>
+<rect x="456.0" y="10" width="211.0" height="76" fill="none" stroke="#2a8f12" stroke-width="1"/>
+<rect x="456.0" y="10" width="4" height="76" fill="#39ff14" filter="url(#glow-s)"/>
+<text x="474.0" y="52" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="26" fill="#39ff14" font-weight="bold" text-anchor="start" xml:space="preserve" filter="url(#glow-s)">PY + TS</text>
+<text x="474.0" y="74" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="10.5" fill="#2a8f12" font-weight="normal" text-anchor="start" xml:space="preserve">MAIN LANGUAGES</text>
+<rect x="679.0" y="10" width="211.0" height="76" fill="none" stroke="#2a8f12" stroke-width="1"/>
+<rect x="679.0" y="10" width="4" height="76" fill="#39ff14" filter="url(#glow-s)"/>
+<text x="697.0" y="52" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="26" fill="#39ff14" font-weight="bold" text-anchor="start" xml:space="preserve" filter="url(#glow-s)">ONLINE</text>
+<circle cx="805.8" cy="44" r="5" fill="#39ff14" filter="url(#glow)"><animate attributeName="opacity" values="1;0.2;1" dur="1.6s" repeatCount="indefinite"/></circle>
+<text x="697.0" y="74" font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="10.5" fill="#2a8f12" font-weight="normal" text-anchor="start" xml:space="preserve">STATUS</text>
+<rect width="900" height="96" fill="url(#scan)" pointer-events="none"/>
+</svg>

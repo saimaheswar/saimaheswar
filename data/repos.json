@@ -1,0 +1,85 @@
+{
+  "name": "SAI MAHESWAR",
+  "role": "full-stack & AI engineer",
+  "user": "saimaheswar",
+  "repos": [
+    {
+      "repo": "streamguard", "glyph": "shield",
+      "desc": ["Real-time card payment fraud detection.", "Spark + Kafka stream scoring: rules + ML."],
+      "stack": "Python · Spark · Kafka · Redis · Postgres",
+      "stat": "217 tests · ~14.6k txn/s per core"
+    },
+    {
+      "repo": "migrateledger", "glyph": "swap",
+      "desc": ["Zero-downtime CDC database migration with", "row-level reconciliation before cutover."],
+      "stack": "Python · SQLAlchemy · Postgres · SQLite",
+      "stat": "163 tests · caught 239 of 239 defects"
+    },
+    {
+      "repo": "lakeforge", "glyph": "waves",
+      "desc": ["Medallion lakehouse for ride-hail trips:", "quality gate in, six gold marts out."],
+      "stack": "Python · DuckDB · dbt · Airflow",
+      "stat": "150 tests · 202k rows in 7 seconds"
+    },
+    {
+      "repo": "mailsift", "glyph": "mail",
+      "desc": ["Email pipeline: .eml/mbox into queryable", "tables + explainable phishing scoring."],
+      "stack": "Python · DuckDB · Streamlit",
+      "stat": "176 tests · 98% coverage"
+    },
+    {
+      "repo": "portfolio", "glyph": "window",
+      "desc": ["Personal portfolio site: projects,", "experience, skills and contact."],
+      "stack": "Next.js · React · Tailwind · Framer Motion",
+      "stat": "deployed on Vercel"
+    },
+    {
+      "repo": "bike-rental-project", "glyph": "bike", "title": "Bike-rental-project",
+      "desc": ["Desktop app with a from-scratch neural net", "that predicts which bike stations matter."],
+      "stack": "Python · PyQt5 · SQLite · numpy",
+      "stat": "single neuron · 2,588 labelled rows"
+    },
+    {
+      "repo": "NERV", "glyph": "hex",
+      "desc": ["Full-stack starter: FastAPI backend", "with a React frontend."],
+      "stack": "FastAPI · React · MongoDB (optional)",
+      "stat": "REST API + React UI"
+    },
+    {
+      "repo": "finance-dashboard", "glyph": "bars",
+      "desc": ["Finance dashboard web app."],
+      "stack": "Angular 19",
+      "stat": "built with Angular CLI"
+    },
+    {
+      "repo": "ecommerce-security-project", "glyph": "lock",
+      "desc": ["Risk management of e-commerce security", "in cloud computing environments."],
+      "stack": "database + write-up + demo video",
+      "stat": "project with recorded walkthrough"
+    },
+    {
+      "repo": "v0-pay-window-tracker-app", "glyph": "calendar",
+      "desc": ["Local-first app that tracks work hours and", "which 2-week pay windows are paid."],
+      "stack": "Next.js 15 · React 19 · IndexedDB",
+      "stat": "installable PWA, no server"
+    },
+    {
+      "repo": "PYTHON1", "glyph": "prompt",
+      "desc": ["Archive."],
+      "stack": "Python",
+      "stat": "last updated 2019"
+    },
+    {
+      "repo": "gitam-june-2019", "glyph": "cap",
+      "desc": ["Archive."],
+      "stack": "college coursework",
+      "stat": "last updated 2019"
+    }
+  ],
+  "stack_rows": [
+    ["PYTHON", "SQL", "TYPESCRIPT", "PYSPARK"],
+    ["KAFKA", "SPARK", "DUCKDB", "DBT", "AIRFLOW"],
+    ["POSTGRES", "REDIS", "SQLITE", "DOCKER"],
+    ["REACT", "NEXT.JS", "ANGULAR", "FASTAPI"]
+  ]
+}
